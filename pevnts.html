@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="pevnts.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREVENTS</title>
+   
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+    <style>
+      .max-font {
+          font-size: 1dvh; /* Adjust the size as needed */
+          font-weight: bold;
+          color: black;
+      }
+      .heading {
+          font-size: 10vw; /* Adjust the size as needed */
+          font-weight: bold;
+          color: orangered;}
+          .moved-text {
+    position: relative; /* Make the position relative to its normal position */
+    left: 20px; /* Move the text 20 pixels to the right */
+    top: 10px; /* Move the text 10 pixels down */
+}
+  </style>
+</head>
+<body>
+    <script src="pents.js"></script> 
+    <div class="scene">
+        <div class="page page-1">
+          <div class="half left">
+            <h2 class="heading" class="max-font" style="font-size: 7vw ; text-align: center; ">FREE-FIRE</h2>
+            <img src="freefire_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="freefire_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-2">
+          <div class="half left withText">
+            <h2 class="heading" class="max-font" style="font-size: 7vw ;">PUBG</h2>
+            <img src="pubg_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="pubg_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-3">
+          <div class="half left">
+            <img src="chess2n_left.jpg"/>
+          </div>
+          <div class="half right withText">
+            <h2 class="heading">CHESS</h2>
+            <img src="chess2n_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-4">
+          <div class="half left withText">
+            <h2 class="heading" style="font-size: 6vw ;">PHOTO CONTEST</h2>
+            <img src="camera_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="camera_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-5">
+          <div class="half left withText">
+            <h2 class="heading" style="font-size: 6vw ;">TUG-OF</h2>
+            <img src="tug_war_left.jpg"/>
+          </div>
+          <div class="half right">
+            <div class="half left withText">
+              <h2 class="heading"  style="font-size: 6vw ;">-WAR</h2>
+            </div>
+            <img src="tug_war_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-6">
+          <div class="half left withText">
+            <h2 class="heading" style="font-size: 5vw ;">TREASURE-HUNT</h2>
+            <img src="teasure_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="teasure_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-7">
+          <div class="half left withText">
+            <h2 class="heading">LUDO</h2>
+            <img src="ludo_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="ludo_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-8">
+          <div class="half left withText">
+            <h2 class="heading">CARROMS</h2>
+            <img src="carrom_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="carrom_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-9">
+          <div class="half left withText">
+            <h2 class="heading">PAATHANG</h2>
+            <img src="kitesn2_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="kitesn2_right.jpg"/>
+          </div>
+        </div>
+        <div class="page page-10">
+          <div class="half left withText">
+            <h2 class="heading"style="font-size: 7vw ;">INSTAREELS</h2>
+            <img src="instreels_left.jpg"/>
+          </div>
+          <div class="half right">
+            <img src="instreels_right.jpg"/>
+          </div>
+        </div>
+      <div class="nav-panel">
+        <div class="scroll-btn up"></div>
+        <div class="scroll-btn down"></div>
+        <nav>
+          <ul>
+            <li data-target="1" class="nav-btn nav-page1 active"></li>
+            <li data-target="2" class="nav-btn nav-page2"></li>
+            <li data-target="3" class="nav-btn nav-page3"></li>
+            <li data-target="4" class="nav-btn nav-page4"></li>
+            <li data-target="5" class="nav-btn nav-page5"></li>
+            <li data-target="6" class="nav-btn nav-page6"></li>
+            <li data-target="7" class="nav-btn nav-page7"></li>
+            <li data-target="8" class="nav-btn nav-page8"></li>
+            <li data-target="9" class="nav-btn nav-page9"></li>
+            <li data-target="10" class="nav-btn nav-page10"></li>
+            
+          </ul>
+        </nav>
+      </div>
+      </div>
+      
+<!--
+    <script>
+      $(document).ready(function() {
+          const pages = $('.page');
+          const interval = 4000; // Delay between each page scroll
+          const pause = 5000; // Pause after each iteration
+
+          let currentPage = 0;
+
+          function scrollToNextPage() {
+              pages.eq(currentPage).removeClass('active');
+              currentPage = (currentPage + 1) % pages.length;
+              pages.eq(currentPage).addClass('active');
+              setTimeout(scrollToNextPage, interval);
+          }
+
+          function restartScrolling() {
+              currentPage = 0;
+              scrollToNextPage();
+              setTimeout(restartScrolling, (interval * pages.length) + pause);
+          }
+
+          scrollToNextPage();
+          setTimeout(restartScrolling, (interval * pages.length) + pause);
+      });
+  </script> -->
+
+  <script>
+    $(document).ready(function() {
+        const pages = $('.page');
+        const interval = 2000; // Delay between each page scroll
+        const pause = 2000; // Pause after each iteration
+
+        let currentPage = 0;
+        let isScrolling = false;
+
+        function scrollToNextPage() {
+            if (!isScrolling) {
+                pages.eq(currentPage).removeClass('active');
+                currentPage = (currentPage + 1) % pages.length;
+                pages.eq(currentPage).addClass('active');
+                setTimeout(scrollToNextPage, interval);
+            }
+        }
+
+        function restartScrolling() {
+            if (!isScrolling) {
+                currentPage = 0;
+                scrollToNextPage();
+                setTimeout(restartScrolling, (interval * pages.length) + pause);
+            }
+        }
+
+        // Event listener for scroll start
+        $(window).on('scroll', function() {
+            isScrolling = true;
+        });
+
+        // Event listener for scroll end
+        let scrollEndTimer;
+        $(window).on('scroll', function() {
+            clearTimeout(scrollEndTimer);
+            scrollEndTimer = setTimeout(function() {
+                isScrolling = false;
+                restartScrolling();
+            }, 12000); // 5 seconds delay after user stops scrolling
+        });
+
+        scrollToNextPage();
+        setTimeout(restartScrolling, (interval * pages.length) + pause);
+    });
+</script>
+
+</body>

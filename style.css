@@ -1,0 +1,752 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, section, footer {
+  padding: 20px;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+table,tr,td,th{
+  border: 1px solid black;
+}
+
+
+html {
+font-size:62.5%;
+}
+* {
+margin: 0;
+padding: 0;
+}
+ul, li {
+list-style: none;
+}
+input {
+border: none;
+}
+body {
+width: 100vw;
+height: auto;
+}.desktop-1-WbR {
+width: 100%;
+height: 100rem;
+position: relative;
+/* overflow: hidden; */
+background: radial-gradient(71.29% 71.29% at 52.53% 45.12%, #007ac4 0%, #0f256e 100%);
+}
+.desktop-1-WbR .photo2024-03-0600-27-26-removebg-preview-1-zuu {
+width: 20rem;
+height: 20rem;
+position: absolute;
+left: 0;
+top: 0;
+object-fit: cover;
+vertical-align: top;
+}
+.desktop-1-WbR .ece-2k24-farewell {
+width: 59.1rem;
+height: 7.3rem;
+position: absolute;
+left: 45.1rem;
+top: 0;
+font-size: 6rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .ellipse-2-Rtj {
+width: 35rem;
+height: 35rem;
+position: absolute;
+left: 80vw;
+top: 7rem;
+background: linear-gradient(177.12deg, rgba(169, 25, 223, 0.8999999762) 10.35%, rgba(29, 37, 203, 0.8999999762) 91.62%);
+border-radius: 17.5rem;
+}
+.desktop-1-WbR .ellipse-1-xfh {
+width: 35rem;
+height: 35rem;
+position: absolute;
+left: 1vw;
+top: 65rem;
+background: linear-gradient(177.12deg, #a919df 10.35%, #1d25cb 91.62%);
+border-radius: 17.5rem;
+}
+.desktop-1-WbR .rectangle-1-rFH {
+width: 114.4rem;
+height: 74.4rem;
+position: absolute;
+left: 14.8rem;
+top: 14.9rem;
+box-sizing: border-box;
+backdrop-filter: blur(0.2rem);
+background-color: rgba(217, 217, 217, 0.1000000015);
+border-radius: 8.9rem;
+}
+.desktop-1-WbR .rectangle-2-jps {
+width: 30.5rem;
+height: 10.7rem;
+position: absolute;
+left: 20rem;
+top: 21.3rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .rectangle-7-ruV {
+width: 14rem;
+height: 3.6rem;
+position: absolute;
+left: 20rem;
+top: 39.4rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .rectangle-6-MrF {
+width: 82.2rem;
+height: 22.8rem;
+position: absolute;
+left: 35.4rem;
+top: 37.8rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .rectangle-8-frw {
+width: 82.2rem;
+height: 22.8rem;
+position: absolute;
+left: 35.4rem;
+top: 37.8rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .rectangle-4-c1V {
+width: 30.5rem;
+height: 10.7rem;
+position: absolute;
+left: 54.9rem;
+top: 21.3rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .rectangle-5-YA3 {
+width: 30.5rem;
+height: 10.7rem;
+position: absolute;
+left: 89.8rem;
+top: 21.3rem;
+background-color: #0b3d86;
+border-radius: 4rem;
+}
+.desktop-1-WbR .amount-collected-SWK {
+width: 17.7rem;
+height: 2.5rem;
+position: absolute;
+left: 22.3rem;
+top: 23.2rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-05-03-2024-8e3 {
+width: 12.5rem;
+height: 2.5rem;
+position: absolute;
+left: 20.7rem;
+top: 40rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .components-qHZ {
+width: 15.8rem;
+height: 3.1rem;
+position: absolute;
+left: 38.1rem;
+top: 40rem;
+font-size: 2.5rem;
+font-weight: 700;
+line-height: 1.2125;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .food-rice5k-chicken3k-9Z9 {
+width: 35.3rem;
+height: 2.5rem;
+position: absolute;
+left: 38.1rem;
+top: 46.1rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .arts-colour-papers1k-qgs {
+width: 31.8rem;
+height: 2.5rem;
+position: absolute;
+left: 38.1rem;
+top: 50.6rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-8000-kYw {
+width: 5.5rem;
+height: 2.5rem;
+position: absolute;
+left: 102.5rem;
+top: 46.1rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-1000-Sgf {
+width: 5.2rem;
+height: 2.5rem;
+position: absolute;
+left: 102.5rem;
+top: 50.6rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-9000-xf1 {
+width: 5.5rem;
+height: 2.5rem;
+position: absolute;
+left: 102.5rem;
+top: 56.4rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .day-total-fpK {
+width: 9.1rem;
+height: 2.5rem;
+position: absolute;
+left: 83.2rem;
+top: 56.4rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .total-B1y {
+width: 6.2rem;
+height: 3.1rem;
+position: absolute;
+left: 102.5rem;
+top: 40rem;
+font-size: 2.5rem;
+font-weight: 700;
+line-height: 1.2125;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .amount-spent-th5 {
+width: 14.1rem;
+height: 2.5rem;
+position: absolute;
+left: 57.1rem;
+top: 23.2rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .balance-brP {
+width: 7.9rem;
+height: 2.5rem;
+position: absolute;
+left: 92rem;
+top: 23.2rem;
+font-size: 2rem;
+font-weight: 700;
+line-height: 1.2125;
+color: #ffffff;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-400000--Jko {
+width: 26.6rem;
+height: 4.9rem;
+position: absolute;
+left: 22.3rem;
+top: 25.6rem;
+font-size: 4rem;
+font-weight: 700;
+line-height: 1.2125;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-400000--yrw {
+width: 26.6rem;
+height: 4.9rem;
+position: absolute;
+left: 57.1rem;
+top: 25.6rem;
+font-size: 4rem;
+font-weight: 700;
+line-height: 1.2125;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .item-400000--UYo {
+width: 26.6rem;
+height: 4.9rem;
+position: absolute;
+left: 91.9rem;
+top: 25.6rem;
+font-size: 4rem;
+font-weight: 700;
+line-height: 1.2125;
+font-family: Inter, 'Source Sans Pro';
+white-space: nowrap;
+}
+.desktop-1-WbR .line-2-Hm9 {
+width: 20rem;
+height: 0.1rem;
+position: absolute;
+left: 38.1rem;
+top: 44.1rem;
+background-color: #ffffff;
+}
+.desktop-1-WbR .line-3-EAb {
+width: 10rem;
+height: 0.1rem;
+position: absolute;
+left: 102.5rem;
+top: 44.1rem;
+background-color: #ffffff;
+}
+
+.temp{
+  margin-left: 1285px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom:-340px;
+}
+
+@media (max-width: 767px){
+  .desktop-1-WbR {
+      width:100vw;
+      height: 150rem;
+      position: relative;
+      overflow: hidden;
+      background: radial-gradient(71.29% 71.29% at 52.53% 45.12%, #007ac4 0%, #0f256e 100%);
+    }
+    body {
+      width: 90vw;
+      height: auto;
+    }
+    .desktop-1-WbR .ece-2k24-farewell {
+      width: 70vw;
+      height: auto;
+      position: absolute;
+      left: 10rem;
+      top: 32px;
+      font-size: 3.2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+   .desktop-1-WbR .back {
+    width: 300px;
+    height:395px ;
+    position: absolute;
+    left: 2rem;
+    right: 2rem;
+    top: 14.9rem;
+    box-sizing: border-box;
+    backdrop-filter: blur(0.2rem);
+    background-color: rgba(217, 217, 217, 0.1000000015);
+    border-radius: 2.5rem;
+  }
+    .desktop-1-WbR .rectangle-2-jps {
+      width: 60vw;
+      height: 10.7rem;
+      position: absolute;
+      left: 10rem;
+      top: 21.3rem;
+      background-color: #0b3d86;
+      border-radius: 2rem;
+    }
+    .desktop-1-WbR .photo2024-03-0600-27-26-removebg-preview-1-zuu {
+      width: 10rem;
+      height: 10rem;
+      position: absolute;
+      left: 0.5rem;
+      top: 1rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .desktop-1-WbR .amount-collected-SWK {
+      width: 17.7rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 13rem;
+      top: 23.2rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-400000--Jko {
+      width: 26.6rem;
+      height: 4.9rem;
+      position: absolute;
+      left: 13rem;
+      top: 25.6rem;
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .rectangle-4-c1V {
+      width: 60vw;
+      height: 10.7rem;
+      position: absolute;
+      left: 10rem;
+      top: 40.3rem;
+      background-color: #0b3d86;
+      border-radius: 2rem;
+    }
+    .desktop-1-WbR .amount-spent-th5 {
+      width: 17.7rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 13rem;
+      top: 42.2rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-400000--yrw {
+      width: 26.6rem;
+      height: 4.9rem;
+      position: absolute;
+      left: 13rem;
+      top: 45.0rem;
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .rectangle-5-YA3 {
+      width: 60vw;
+      height: 10.7rem;
+      position: absolute;
+      left: 10rem;
+      top: 60.3rem;
+      background-color: #0b3d86;
+      border-radius: 2rem;
+    }
+    .desktop-1-WbR .balance-brP {
+      width: 17.7rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 13rem;
+      top: 62.2rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-400000--UYo {
+      width: 26.6rem;
+      height: 4.9rem;
+      position: absolute;
+      left: 13rem;
+      top: 65.0rem;
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .rectangle-8-frw {
+      width: 80vw;
+      height: 22.8rem;
+      position: absolute;
+      left: 5rem;
+      top: 80rem;
+      background-color: #0b3d86;
+      border-radius: 3rem;
+    }
+    .desktop-1-WbR .item-05-03-2024-8e3 {
+      width: 12.5rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 5rem;
+      top: 76rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .rectangle-7-ruV {
+      width: 14rem;
+      height: 3.6rem;
+      position: absolute;
+      left: 4rem;
+      top: 75.55rem;
+      background-color: #0b3d86;
+      border-radius: 4rem;
+    }
+    .desktop-1-WbR .components-qHZ {
+      width: 15.8rem;
+      height: 3.1rem;
+      position: absolute;
+      left: 7rem;
+      top: 82rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .total-B1y {
+      width: 6.2rem;
+      height: 3.1rem;
+      position: absolute;
+      left: 26.5rem;
+      top: 82rem;
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .rectangle-6-MrF {
+      display: none;
+    }
+    .desktop-1-WbR .food-rice5k-chicken3k-9Z9 {
+      width: 35.3rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 7rem;
+      top: 85rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .arts-colour-papers1k-qgs {
+      width: 31.8rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 7rem;
+      top: 87rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-8000-kYw {
+      width: 5.5rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 26.5rem;
+      top: 85rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-1000-Sgf {
+      width: 5.2rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 26.5rem;
+      top: 87rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .day-total-fpK {
+      width: 9.1rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 15srem;
+      top: 95rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .item-9000-xf1 {
+      width: 5.5rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 26.5rem;
+      top: 95rem;
+      font-size: 1.7rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .desktop-1-WbR .line-2-Hm9 {
+      width: 12rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 6.8rem;
+      top: 84.2rem;
+      background-color: #ffffff;
+    }
+    .desktop-1-WbR .line-3-EAb {
+      width: 5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 26.5rem;
+      top: 84.2rem;
+      background-color: #ffffff;
+    }
+    .ellipse-1-Ypo {
+      display: none;
+    }
+    .desktop-1-WbR .ellipse-2-Rtj {
+      width: 35rem;
+      height: 35rem;
+      position: absolute;
+      left: 50vw;
+      top: 9rem;
+      background: linear-gradient(177.12deg, rgba(169, 25, 223, 0.8999999762) 10.35%, rgba(29, 37, 203, 0.8999999762) 91.62%);
+      border-radius: 17.5rem;
+    }
+    .desktop-1-WbR .ellipse-1-xfh {
+      width: 35rem;
+      height: 35rem;
+      position: absolute;
+      left:-15rem;
+      top: 90rem;
+      background: linear-gradient(177.12deg, #a768bd 10.35%, #1d25cb 91.62%);
+      border-radius: 17.5rem;
+    }
+    div a .logoo{
+      width:"0px";
+      height:"10px";
+      position:absolute;
+      left: 200px;
+    }
+    .temp{
+      margin-left: 200px;
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      bottom:-650px;
+    }
+    .food {
+    width: 250px;
+    height: 340px;
+    position: absolute;
+    top: 180px;
+    left: 45px;
+    border-radius: 20px;
+  }
+  .scrollable-text{
+    margin-top: 600px;
+    left: 1rem;
+    position: absolute;
+  }
+ .scrol_bg{
+    width: 300px;
+    height:585px ;
+    position: absolute;
+    left: 0.5rem;
+    right: 2rem;
+    top: 578.4px;
+    box-sizing: border-box;
+    backdrop-filter: blur(0.2rem);
+    background-color: rgba(217, 217, 217, 0.1000000015);
+    border-radius: 2.5rem;
+  }
+}
